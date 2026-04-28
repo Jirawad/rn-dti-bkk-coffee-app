@@ -17,7 +17,6 @@
 
 ### 🌙 Dark Mode Experience
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/237317cc-1ef6-4d3b-abd0-594988eeb644" width="31%" />
   <img src="https://github.com/user-attachments/assets/4b8af880-f92b-4418-8739-c2bc65015000" width="31%" />
   <img src="https://github.com/user-attachments/assets/1b05970c-b05d-4314-b17b-ae90345b2c14" width="31%" />
 </p>
